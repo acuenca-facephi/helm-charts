@@ -1,2 +1,2 @@
 # helm-charts
-Helm charts repositories.
+Helm charts repository.
