@@ -11,6 +11,6 @@ jobs:
         run: helm repo index .
       
       - name: commit-push update index
-        uses: stefanzweifel/git-auto-commit-action@v4.12.0
+        uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
           commit_message: Update charts index
