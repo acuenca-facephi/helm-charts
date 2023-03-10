@@ -1,0 +1,11 @@
+name: Pokedex continous integration
+on: push
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: update index
+        run: helm repo index .
