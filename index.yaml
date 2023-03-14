@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   pokedex-backend:
   - apiVersion: v2
-    created: "2023-03-10T11:16:23.357440546Z"
+    created: "2023-03-14T08:20:40.690941392Z"
     description: Pokedex backend
-    digest: 6db492949e41dc2b28894de38c9cd197c8c79940b2286f0d7efd892e86be36dd
+    digest: e510efb61c9a32ba28236762880ece4a4b9908349ee416b271ce55f4e9762683
     name: pokedex-backend
     type: application
     urls:
@@ -12,7 +12,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-03-10T11:16:23.356928746Z"
+    created: "2023-03-14T08:20:40.690413489Z"
     description: Pokedex backend
     digest: ca8fb3783686d40e1fea0aa7d945ae2beb5e4f5e32f5ebf03f0fec8472036da2
     name: pokedex-backend
@@ -20,4 +20,4 @@ entries:
     urls:
     - pokedex-backend-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-10T11:16:23.356131346Z"
+generated: "2023-03-14T08:20:40.689590883Z"
